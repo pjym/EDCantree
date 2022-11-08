@@ -1,0 +1,3 @@
+D:/STM32Projects/EDCantree/cmake-build-debug/CMakeFiles/EDCantree.elf.dir
+D:/STM32Projects/EDCantree/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/STM32Projects/EDCantree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
